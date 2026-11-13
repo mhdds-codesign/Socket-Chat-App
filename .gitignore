@@ -1,0 +1,21 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+myenv/
+env/
+ENV/
+
+# IDE & Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Received Files during Testing
+client_*.*
+!client_GUI.py
+temp.txt
